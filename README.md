@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @adrien-pago
 - 👀 I’m interested in Développement
-- 🌱 I’m currently learning en BTS Services Informatiques aux Organisations
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
